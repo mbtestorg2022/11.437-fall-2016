@@ -38,7 +38,7 @@ Courtesy of [Edmonton Economic Development Corporation](https://flic.kr/p/e8LHRG
 
 [Lecture 17: Program Planning and Design (PDF)]({{< baseurl >}}/resources/mit11_437f16_lec17)
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Lecture 18: Managing Lending and Investing Operations (PDF)]({{< baseurl >}}/resources/mit11_437f16_lec18)
+[Lecture 18: Managing Lending and Investing Operations (PDF)]({{< baseurl >}}/resources/mit11_437f16_lec18)
 
 [Lecture 19: Raising and Managing Capital (PDF)]({{< baseurl >}}/resources/mit11_437f16_lec19)
 

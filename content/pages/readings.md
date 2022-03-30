@@ -128,7 +128,7 @@ Pence, Craig. "[Accounting Lecture 01 - Basic Concepts](https://youtu.be/Wu6bUFW
 
 \[SEI\] Chapter 4.
 
-Community Development Venture Capital Alliance Return on Investment Project. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Measuring Impacts Toolkit (PDF)](http://cdvca.org/wp-content/uploads/2012/04/CDVCA-Measuring-Impacts-Toolkit-TofC-and-Intro.pdf)." 2005.
+Community Development Venture Capital Alliance Return on Investment Project.  "[Measuring Impacts Toolkit (PDF)](http://cdvca.org/wp-content/uploads/2012/04/CDVCA-Measuring-Impacts-Toolkit-TofC-and-Intro.pdf)." 2005.
 
 Opportunity Finance Network. "[The Triple Bottom Line Collaborative: CDFIs and Triple Bottom Line Lending](http://www.issuelab.org/resource/the_triple_bottom_line_collaborative_cdfis_and_triple_bottom_line_lending)." 2007: 3–15.
 
@@ -203,7 +203,7 @@ Healy, Damon. "[The A. Alfred Taubman Center for Design Education: A Case Study 
 
 Milford, Lewis, Devashree Saha, Mark Muro, Robert Sanders, and Toby Rittner. "[Clean Energy Finance Through the Bond Market](https://www.brookings.edu/research/clean-energy-finance-through-the-bond-market-a-new-option-for-progress/)." Brookings Institution, Brookings Rockefeller Project on State and Metropolitan Innovation (2014).
 
-Energy Programs Consortium. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Qualified Energy Consortium Bonds (PDF–6.5MB)](https://energy.gov/sites/prod/files/2014/06/f16/QECB_memo_12-13-13.pdf)." December 2014.
+Energy Programs Consortium.  "[Qualified Energy Consortium Bonds (PDF–6.5MB)](https://energy.gov/sites/prod/files/2014/06/f16/QECB_memo_12-13-13.pdf)." December 2014.
 
 
 {{< tdclose >}}
@@ -218,13 +218,13 @@ Energy Programs Consortium. ![This resource may not render correctly in a screen
 
 \[SEI\] Chapter 15, pages 348–361.
 
-Detroit Downtown Development Authority. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "RE: Events Center Project - Bond Authorizing Resolution." 2014.
+Detroit Downtown Development Authority.  "RE: Events Center Project - Bond Authorizing Resolution." 2014.
 
 Skid, Nathan. "[Eastern Market Turns to Tax Law to Make Upgrades](http://www.crainsdetroit.com/article/20140223/NEWS/302239962/eastern-market-turns-to-tax-law-to-make-upgrades)." _Crain's Detroit Business_. February 23, 2014.
 
 Kildee, Dan. 2004. "The Genesee County Land Bank Initiative." Flint, MI: Genesee County Land Bank.
 
-Klimovich, Kristina, Katrina Managan and Jennifer Layke. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Setting the PACE 2.0: Financing Commercial Retrofits (PDF–1.9MB)](https://cdn2.hubspot.net/hubfs/2323907/SettingThePACE-2.0.pdf)." Institute for Building Efficiency. May 2014.
+Klimovich, Kristina, Katrina Managan and Jennifer Layke.  "[Setting the PACE 2.0: Financing Commercial Retrofits (PDF–1.9MB)](https://cdn2.hubspot.net/hubfs/2323907/SettingThePACE-2.0.pdf)." Institute for Building Efficiency. May 2014.
 
 PACENation. "[C-Pace Market Update: 2016 Q1 (PDF–2.1MB)](https://www.pacenation.us/wp-content/uploads/2016/06/Market-update-Q1-2016.pdf)." 2016.
 
@@ -258,15 +258,15 @@ READINGS
 {{< tdopen >}}
 
 
-La Franchi, Deborah. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "New Markets Tax Credits: A Growing String of Successes Across the Country." _Economic Development Journal_ 9, no. 4 (2010): 5–13.
+La Franchi, Deborah.  "New Markets Tax Credits: A Growing String of Successes Across the Country." _Economic Development Journal_ 9, no. 4 (2010): 5–13.
 
-New Markets Tax Credit Coalition. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[The New Markets Tax Credit Progress Report 2016 (PDF–3.3MB)](http://nmtccoalition.org/wp-content/uploads/NTMC-Coalition-Progress-Report-2016.pdf)." 2016.
+New Markets Tax Credit Coalition.  "[The New Markets Tax Credit Progress Report 2016 (PDF–3.3MB)](http://nmtccoalition.org/wp-content/uploads/NTMC-Coalition-Progress-Report-2016.pdf)." 2016.
 
 M-1 Rail News. "M-1 Rail Finalized New Market Tax Credit Funding for Detroit Streetcar Project." December 23, 2014.
 
 _Optional_
 
-Abravanel, Martin D., Kassie Bertumen, Rachel Brash, Zach McDade, Nancy M. Pindus, and Brett Theodos. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[New Markets Tax Credit (NMTC) Program Evaluation: Final Report (PDF–1.6MB)](http://www.urban.org/sites/default/files/publication/24211/412958-New-Markets-Tax-Credit-NMTC-Program-Evaluation.PDF)." The Urban Institute. April 2013. Pages i–xx.
+Abravanel, Martin D., Kassie Bertumen, Rachel Brash, Zach McDade, Nancy M. Pindus, and Brett Theodos.  "[New Markets Tax Credit (NMTC) Program Evaluation: Final Report (PDF–1.6MB)](http://www.urban.org/sites/default/files/publication/24211/412958-New-Markets-Tax-Credit-NMTC-Program-Evaluation.PDF)." The Urban Institute. April 2013. Pages i–xx.
 
 
 {{< tdclose >}}
@@ -289,7 +289,7 @@ Community Development Financial Institution Fund. "[Overview of What We Do](http
 
 Prunella, Priscila, Brett Theodos, and Alexander Thackeray. "[Federally Sponsored Local Economic and Community Development: A Look at HUD's Section 108 Program](https://doi.org/10.1080/10511482.2013.864320)." _Housing Policy Debate_ 24, no. 1 (2014): 258–287.
 
-State Small Business Credit Initiative. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[A Summary of States' Quarterly Reports (PDF–1.5MB)](https://www.treasury.gov/resource-center/sb-programs/Documents/SSBCI%20Quarterly%20Report%20Summary%20March%202016_FINAL.PDF)." U.S. Department of the Treasury. March 2016.
+State Small Business Credit Initiative.  "[A Summary of States' Quarterly Reports (PDF–1.5MB)](https://www.treasury.gov/resource-center/sb-programs/Documents/SSBCI%20Quarterly%20Report%20Summary%20March%202016_FINAL.PDF)." U.S. Department of the Treasury. March 2016.
 
 
 {{< tdclose >}}
@@ -304,7 +304,7 @@ State Small Business Credit Initiative. ![This resource may not render correctly
 
 \[SEI\] Chapter 8.
 
-Center for Regional Economic Competitiveness. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Filling the Small Business Lending Gap: Lessons from the U.S. Treasury's State Small Business Credit Initiative (SSBCI) Loan Programs (PDF–1.6MB)](https://www.treasury.gov/resource-center/sb-programs/Documents/CREC%20January%202014%20FINAL.pdf)." U.S. Department of the Treasury. January 2014.
+Center for Regional Economic Competitiveness.  "[Filling the Small Business Lending Gap: Lessons from the U.S. Treasury's State Small Business Credit Initiative (SSBCI) Loan Programs (PDF–1.6MB)](https://www.treasury.gov/resource-center/sb-programs/Documents/CREC%20January%202014%20FINAL.pdf)." U.S. Department of the Treasury. January 2014.
 
 Toussaint-Comeau, Maude, and Robin G. Newberger. "[An Analysis of SBA Loans in Lower-Income and Black Neighborhoods in Detroit and Michigan](https://www.chicagofed.org/publications/profitwise-news-and-views/2014/pnv-spring2014)." _Profitwise_ (2014): 1–14, and 17.
 
@@ -312,7 +312,7 @@ U.S. Department of Energy. "[Section 1705 Loan Program](https://energy.gov/lpo/s
 
 U.S. Government Accountability Office. "[DOE Loan Programs: Information on Implementation of GAO Recommendations and Program Costs](http://www.gao.gov/products/GAO-16-150T)." Pages 2–9 and Appendix I.
 
-Board of Governors of the Federal Reserve System. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Report to the Congress on the Availability of Credit to Small Businesses (PDF–2.9MB)](https://www.federalreserve.gov/publications/other-reports/files/sbfreport2012.pdf)." September 2012. Pages 45–52.
+Board of Governors of the Federal Reserve System.  "[Report to the Congress on the Availability of Credit to Small Businesses (PDF–2.9MB)](https://www.federalreserve.gov/publications/other-reports/files/sbfreport2012.pdf)." September 2012. Pages 45–52.
 
 _Optional_
 
@@ -335,7 +335,7 @@ Kubert, Charles and Mark Sinclair. "[State Support for Clean Energy Deployment: 
 
 Newburger, Robin. "After the Financial Crisis: The Roles and Responsibilities of Banking Institutions in Financing Community Economic Development" in White, Sammis B., and Zenia Z. Kotval. _Financing Economic Development in the 21st Century_. Routledge, 2012. ISBN: 9780765627834.
 
-JP Morgan Chase & Co. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Invested In Detroit's Future: Two Years In (PDF–2.2MB)](http://www.detroitchamber.com/wp-content/uploads/2019/11/Chase-Detroit-Report-2016.pdf)." 2016.
+JP Morgan Chase & Co.  "[Invested In Detroit's Future: Two Years In (PDF–2.2MB)](http://www.detroitchamber.com/wp-content/uploads/2019/11/Chase-Detroit-Report-2016.pdf)." 2016.
 
 [JP Morgan Chase and Detroit](https://www.jpmorganchase.com/corporate/Corporate-Responsibility/detroit.htm).
 
@@ -343,7 +343,7 @@ U.S. Securities and Exchange Commission. "[Small Business and the SEC](https://w
 
 Cohn, Stuart R. "[The New Crowdfunding Registration Exemption: Good Idea, Bad Execution](https://ssrn.com/abstract=2066016)." _Florida Law Review_ 64 (2012): 1433.
 
-Taylor, Ryan. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Equity-Based Crowdfunding: Potential Implications for Small Business Capital (PDF)](https://www.sba.gov/sites/default/files/advocacy/Issue-Brief-5-Equity-Based-Crowdfunding_2.pdf)." _Advocacy: The Voice of Small Business in Government_, Issue Brief 5 (2015).
+Taylor, Ryan.  "[Equity-Based Crowdfunding: Potential Implications for Small Business Capital (PDF)](https://www.sba.gov/sites/default/files/advocacy/Issue-Brief-5-Equity-Based-Crowdfunding_2.pdf)." _Advocacy: The Voice of Small Business in Government_, Issue Brief 5 (2015).
 
 Department of Licensing and Regulatory Affairs. "[Crowdfunding: Things to Keep in Mind](http://www.michigan.gov/lara/0,4601,7-154-61343_32915-332094--,00.html)." State of Michigan. 2017.
 
@@ -370,7 +370,7 @@ Council of Development Finance Agencies. "[Revolving Loan Fund Resource Center](
 
 _Optional_
 
-Foley, Rob, Joe Indvik, and Mark Orlowski. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Green Revolving Funds: An Introductory Guide to Implementation and Management (PDF - 4.9MB)](http://greenbillion.org/wp-content/uploads/2013/01/GRF_Implementation_Guide.pdf)." Sustainable Endowments Institute, Association for the Advancement of Sustainability in Higher Education. 2013.
+Foley, Rob, Joe Indvik, and Mark Orlowski.  "[Green Revolving Funds: An Introductory Guide to Implementation and Management (PDF - 4.9MB)](http://greenbillion.org/wp-content/uploads/2013/01/GRF_Implementation_Guide.pdf)." Sustainable Endowments Institute, Association for the Advancement of Sustainability in Higher Education. 2013.
 
 National Association of State Energy Officials. "[State Energy Financing Programs](http://www.naseo.org/state-energy-financing-programs)."
 
@@ -391,21 +391,21 @@ Freear, John, and Jeffrey E. Sohl. "Angles on Angels and Venture Capital: Financ
 
 [New Economy Initiative](http://neweconomyinitiative.org/). Review "NEI Stories" and "What We Fund" sections as related to early stage and high growth businesses.
 
-Michigan Venture Capital Association. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Michigan Venture Capital 2016 Annual Research Report (PDF–2.5MB)](http://michiganvca.org/wp-content/uploads/2016/04/2016-MVCA-Research-Report.pdf)." 2016.
+Michigan Venture Capital Association.  "[Michigan Venture Capital 2016 Annual Research Report (PDF–2.5MB)](http://michiganvca.org/wp-content/uploads/2016/04/2016-MVCA-Research-Report.pdf)." 2016.
 
 Piazza, Merissa, Joan Chase, Chang-Shik Song, Elorm Tsegah, et. al. "[Detroit Regional Analysis: Demographics, Economy, Entrepreneurship and Innovation](https://works.bepress.com/merissa_piazza/18/)." Cleveland State University Center for Economic Development. April 2012.
 
-NGA Center for Best Practices. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Issue Brief: State Strategies to Promote Angel Investment for Economic Growth (PDF)](https://www.nga.org/files/live/sites/NGA/files/pdf/0802ANGELINVESTMENT.PDF)." February 14, 2008. Pages 5–10.
+NGA Center for Best Practices.  "[Issue Brief: State Strategies to Promote Angel Investment for Economic Growth (PDF)](https://www.nga.org/files/live/sites/NGA/files/pdf/0802ANGELINVESTMENT.PDF)." February 14, 2008. Pages 5–10.
 
-PricewaterhouseCoopers National Venture Capital Association. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[MoneyTree™ Report: Q2 2016 (PDF)](https://www.pwc.com/us/en/technology/assets/pwc-national-moneytree-q2-2016-summary-report.pdf)." Data provided by Thomson Reuters. July 2016.
+PricewaterhouseCoopers National Venture Capital Association.  "[MoneyTree™ Report: Q2 2016 (PDF)](https://www.pwc.com/us/en/technology/assets/pwc-national-moneytree-q2-2016-summary-report.pdf)." Data provided by Thomson Reuters. July 2016.
 
 Gaddy, Benjamin, Varun Sivaram, and Francis O’Sullivan. "[Venture Capital and Cleantech: The Wrong Model for Clean Energy Innovation](http://energy.mit.edu/publication/venture-capital-cleantech/)." MIT Energy Initiative Working Paper. July 2016. Pages 2–12.
 
 _Optional_
 
-Economic Development Research Group. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Evaluation of the Minnesota Angel Tax Credit Program: 2010-2012 (PDF–3.4MB)](https://www.revenue.state.mn.us/sites/default/files/2014-02/evaluation_of_the_mn_angel_tax_credit_program.pdf)." January 2014. Read Executive Summary (pages 1–5) and Analysis of Investment Disparities (54–68).
+Economic Development Research Group.  "[Evaluation of the Minnesota Angel Tax Credit Program: 2010-2012 (PDF–3.4MB)](https://www.revenue.state.mn.us/sites/default/files/2014-02/evaluation_of_the_mn_angel_tax_credit_program.pdf)." January 2014. Read Executive Summary (pages 1–5) and Analysis of Investment Disparities (54–68).
 
-Nanda, Ramana, Ken Younge, and Lee Fleming. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Innovation and Entrepreneurship in Renewable Energy (PDF)](http://www.hbs.edu/faculty/Publication%20Files/Nanda_Younge_Fleming_October_2013%20(2)_725c0917-7769-43c2-ae3c-df472eced570.pdf)." Harvard Business School (2013).
+Nanda, Ramana, Ken Younge, and Lee Fleming.  "[Innovation and Entrepreneurship in Renewable Energy (PDF)](http://www.hbs.edu/faculty/Publication%20Files/Nanda_Younge_Fleming_October_2013%20(2)_725c0917-7769-43c2-ae3c-df472eced570.pdf)." Harvard Business School (2013).
 
 
 {{< tdclose >}}
@@ -422,14 +422,14 @@ Nanda, Ramana, Ken Younge, and Lee Fleming. ![This resource may not render corre
 
 Abramowitz, Adina, Bryony Edwards, and Genevieve Melford. "[Community Development FInance in Los Angeles Challenges and Responses](http://community-wealth.org/content/community-development-finance-los-angeles-challenges-and-responses)." Opportunity Finance Network. July 2006.
 
-Theodos, Brett, Sameera Fazili, and Ellen Seidman. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Scaling Impact for Community Development Financial Institutions (PDF)](http://www.urban.org/sites/default/files/publication/81356/2000811-Scaling-Impact-for-Community-Development-Financial-Institutions.pdf)." The Urban Institute: Metropolitan Housing and Communities Policy Center. (2016).
+Theodos, Brett, Sameera Fazili, and Ellen Seidman.  "[Scaling Impact for Community Development Financial Institutions (PDF)](http://www.urban.org/sites/default/files/publication/81356/2000811-Scaling-Impact-for-Community-Development-Financial-Institutions.pdf)." The Urban Institute: Metropolitan Housing and Communities Policy Center. (2016).
 
 Review materials on CDFI examples:
 
 *   [Self-Help Credit Union](https://www.self-help.org/).
-*   Self-Help Credit Union. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[2015 Annual Report](https://www.self-help.org/ar/2015/)."
+*   Self-Help Credit Union.  "[2015 Annual Report](https://www.self-help.org/ar/2015/)."
 *   [Invest Detroit](http://investdetroit.com/wp-content/uploads/2019/01/Invest_Detroit_2015_Annual_Report.pdf).
-*   Invest Detroit. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[2015 Annual Report (PDF–12.1MB)](http://41ruap1e0cp9mz21zqijnsw1-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/Invest_Detroit_2015_Annual_Report.pdf)."
+*   Invest Detroit.  "[2015 Annual Report (PDF–12.1MB)](http://41ruap1e0cp9mz21zqijnsw1-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/Invest_Detroit_2015_Annual_Report.pdf)."
 *   [Detroit Development Fund](https://www.detroitdevelopmentfund.com/).
 *   [Capital Impact Partners](https://www.capitalimpact.org/).
 *   Capital Impact Partners. "[2015 Annual Report](http://www.capitalimpact.org/annualreport/2015.php)."
@@ -457,7 +457,7 @@ Explore the [Economic & Community Development Institute](https://www.ecdi.org/) 
 
 _Optional_
 
-Edgcomb, Elaine. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Entrepreneurship Development Systems: The WK Kellogg Foundation Demonstration (PDF)](http://fieldus.org/Projects/pdf/EDSspeech_11_08.pdf)." Conference Presentation. St. Louis, MO, Nov 6 (2008).
+Edgcomb, Elaine.  "[Entrepreneurship Development Systems: The WK Kellogg Foundation Demonstration (PDF)](http://fieldus.org/Projects/pdf/EDSspeech_11_08.pdf)." Conference Presentation. St. Louis, MO, Nov 6 (2008).
 
 Burrus, William. "[Innovations in Microenterprise Development in the United States](http://www.centerforfinancialinclusion.org/publications-a-resources/browse-publications/308)." Accion USA (2006).
 
@@ -495,11 +495,11 @@ READINGS
 
 Servon, Lisa J., Robert W. Fairlie, Blaise Rastello, and Amber Seely. "[The Five Gaps Facing Small and Microbusiness Owners: Evidence from New York City](https://doi.org/10.1177/0891242409354899)." _Economic Development Quarterly_ (2010).
 
-Newberger, Robin and Maude Toussaint-Comeau. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Bank Infrastructure and Small Business Funding (PDF–8.5MB)](https://www.chicagofed.org/~/media/others/region/community-development-policy-studies/detroit-project/detroitproject-whitepaper-web-pdf.pdf?la=en)." Community Development and Policy Studies. Federal Reserve Bank of Chicago. 2014.
+Newberger, Robin and Maude Toussaint-Comeau.  "[Bank Infrastructure and Small Business Funding (PDF–8.5MB)](https://www.chicagofed.org/~/media/others/region/community-development-policy-studies/detroit-project/detroitproject-whitepaper-web-pdf.pdf?la=en)." Community Development and Policy Studies. Federal Reserve Bank of Chicago. 2014.
 
-Hacke, Robin, David Wood, and Marian Urquilla. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Community Investment: Focusing on the System (PDF)](http://kresge.org/sites/default/files/Kresge-Community-Investment-Focusing-on-the%20System-March%202015_0.pdf)." The Kresge Foundation (2015).
+Hacke, Robin, David Wood, and Marian Urquilla.  "[Community Investment: Focusing on the System (PDF)](http://kresge.org/sites/default/files/Kresge-Community-Investment-Focusing-on-the%20System-March%202015_0.pdf)." The Kresge Foundation (2015).
 
-Dierkers, Greg, Sue Gander, and Devashree Saha. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[State Clean Energy Financing Guidebook (PDF–3.7MB)](https://cleanenergysolutions.org/pt-br/resources/state-clean-energy-financing-guidebook)." Environment, Energy & Transportation Division, National Governor's Association Center for Best Practices. January 2011.
+Dierkers, Greg, Sue Gander, and Devashree Saha.  "[State Clean Energy Financing Guidebook (PDF–3.7MB)](https://cleanenergysolutions.org/pt-br/resources/state-clean-energy-financing-guidebook)." Environment, Energy & Transportation Division, National Governor's Association Center for Best Practices. January 2011.
 
 
 {{< tdclose >}}
@@ -542,7 +542,7 @@ No readings
 
 _Optional_
 
-Berger, Andrea, Marisa Barrera, and Joyce Klein. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Credit Scoring for Microenterprise Lenders (PDF)](http://fieldus.org/projects/pdf/CreditScoring.pdf)." Microenterprise Fund for Innovation, Effectiveness, Learning and Dissemination, 2007.
+Berger, Andrea, Marisa Barrera, and Joyce Klein.  "[Credit Scoring for Microenterprise Lenders (PDF)](http://fieldus.org/projects/pdf/CreditScoring.pdf)." Microenterprise Fund for Innovation, Effectiveness, Learning and Dissemination, 2007.
 
 
 {{< tdclose >}}
@@ -595,7 +595,7 @@ No readings
 
 \[SEI\] Chapter 19.
 
-Levere, Andrea, Bill Schweke, and Beadsie Woo. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Development Finance and Regional Economic Development (PDF)](https://community-wealth.org/content/development-finance-and-regional-economic-development)." Corporation for Enterprise Development. July 2006.
+Levere, Andrea, Bill Schweke, and Beadsie Woo.  "[Development Finance and Regional Economic Development (PDF)](https://community-wealth.org/content/development-finance-and-regional-economic-development)." Corporation for Enterprise Development. July 2006.
 
 
 {{< tdclose >}}
